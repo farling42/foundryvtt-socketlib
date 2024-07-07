@@ -1,3 +1,8 @@
+## 1.1.0
+### Compatibility
+- Updated for compatibilty with Foundry 12 (thanks Clemente!)
+
+
 ## 1.0.13
 ### Compatibility
 - Verified compatibility with Foundry 11

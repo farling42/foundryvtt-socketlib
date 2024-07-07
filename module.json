@@ -4,8 +4,8 @@
 	"description": "A library for easier handling of foundry sockets",
 	"version": "1.0.13",
 	"compatibility": {
-		"minimum": "10",
-		"verified": "11"
+		"minimum": "11",
+		"verified": "12"
 	},
 	"library": true,
 	"authors": [
@@ -17,7 +17,6 @@
 		}
 	],
 	"esmodules": [
-		"src/libwrapper_shim.js",
 		"src/socketlib.js"
 	],
 	"url": "https://github.com/manuelVo/foundryvtt-socketlib",

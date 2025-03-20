@@ -29,7 +29,7 @@
 	],
 	"url": "#{URL}#",
 	"download": "#{DOWNLOAD}#",
-	"manifest": "https://github.com/farling42/foundryvtt-socketlib/releases/latest/download/module.json",
+	"manifest": "#{MANIFEST}#",
 	"readme": "https://github.com/farling42/foundryvtt-socketlib/blob/master/README.md",
 	"changelog": "https://github.com/farling42/foundryvtt-socketlib/blob/master/CHANGELOG.md",
 	"bugs": "https://github.com/farling42/foundryvtt-socketlib/issues"

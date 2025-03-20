@@ -9,7 +9,15 @@
 	},
 	"library": true,
 	"authors": [
-		{
+        {
+            "name": "Farling",
+            "url": "https://github.com/farling42",
+            "email": "foundryvtt@amusingtime.uk",
+            "discord": "farling",
+            "ko-fi": "farling",
+            "patreon": "amusingtime"
+        },
+        {
 			"name": "Manuel Vögele",
 			"email": "develop@manuel-voegele.de",
 			"discord": "Stäbchenfisch#5107",

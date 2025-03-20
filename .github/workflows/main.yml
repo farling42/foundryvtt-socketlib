@@ -117,6 +117,7 @@ jobs:
              ./module.zip                        \
             `# The files that will be included.` \
             module.json                          \
+            LICENSE                              \
             CHANGELOG.md                         \
             README.md                            \
             src/

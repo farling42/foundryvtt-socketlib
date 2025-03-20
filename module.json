@@ -19,10 +19,10 @@
 	"esmodules": [
 		"src/socketlib.js"
 	],
-	"url": "https://github.com/manuelVo/foundryvtt-socketlib",
-	"download": "https://github.com/manuelVo/foundryvtt-socketlib/archive/v1.1.0.zip",
-	"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-socketlib/master/module.json",
-	"readme": "https://github.com/manuelVo/foundryvtt-socketlib/blob/master/README.md",
-	"changelog": "https://github.com/manuelVo/foundryvtt-socketlib/blob/master/CHANGELOG.md",
-	"bugs": "https://github.com/manuelVo/foundryvtt-socketlib/issues"
+	"url": "https://github.com/farling42/foundryvtt-socketlib",
+	"download": "https://github.com/farling42/foundryvtt-socketlib/archive/v1.1.0.zip",
+	"manifest": "https://raw.githubusercontent.com/farling42/foundryvtt-socketlib/master/module.json",
+	"readme": "https://github.com/farling42/foundryvtt-socketlib/blob/master/README.md",
+	"changelog": "https://github.com/farling42/foundryvtt-socketlib/blob/master/CHANGELOG.md",
+	"bugs": "https://github.com/farling42/foundryvtt-socketlib/issues"
 }

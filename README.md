@@ -1,4 +1,8 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/staebchenfisch)
+[![ko-fi](https://img.shields.io/badge/Ko--Fi-farling-success)](https://ko-fi.com/farling)
+[![patreon](https://img.shields.io/badge/Patreon-amusingtime-success)](https://patreon.com/amusingtime)
+![GitHub License](https://img.shields.io/github/license/farling42/foundryvtt-socketlib)
+![Latest Release Download Count](https://img.shields.io/github/downloads/farling42/foundryvtt-socketlib/latest/module.zip)
+![Forge installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Ffoundryvtt-socketlib)
 
 # socketlib
 A library for simplifying working with foundries sockets. This module does not have any user facing features. You only need to install it if one of the modules you use lists it as a dependency.

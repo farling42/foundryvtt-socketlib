@@ -2,14 +2,22 @@
 	"id": "socketlib",
 	"title": "socketlib",
 	"description": "A library for easier handling of foundry sockets",
-	"version": "1.0.13",
+	"version": "#{VERSION}#",
 	"compatibility": {
-		"minimum": "10",
-		"verified": "11"
+		"minimum": "11",
+		"verified": "13.338"
 	},
 	"library": true,
 	"authors": [
-		{
+        {
+            "name": "Farling",
+            "url": "https://github.com/farling42",
+            "email": "foundryvtt@amusingtime.uk",
+            "discord": "farling",
+            "ko-fi": "farling",
+            "patreon": "amusingtime"
+        },
+        {
 			"name": "Manuel Vögele",
 			"email": "develop@manuel-voegele.de",
 			"discord": "Stäbchenfisch#5107",
@@ -17,13 +25,12 @@
 		}
 	],
 	"esmodules": [
-		"src/libwrapper_shim.js",
 		"src/socketlib.js"
 	],
-	"url": "https://github.com/manuelVo/foundryvtt-socketlib",
-	"download": "https://github.com/manuelVo/foundryvtt-socketlib/archive/v1.0.13.zip",
-	"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-socketlib/master/module.json",
-	"readme": "https://github.com/manuelVo/foundryvtt-socketlib/blob/master/README.md",
-	"changelog": "https://github.com/manuelVo/foundryvtt-socketlib/blob/master/CHANGELOG.md",
-	"bugs": "https://github.com/manuelVo/foundryvtt-socketlib/issues"
+	"url": "#{URL}#",
+	"download": "#{DOWNLOAD}#",
+	"manifest": "https://github.com/farling42/foundryvtt-socketlib/releases/latest/download/module.json",
+	"readme": "https://github.com/farling42/foundryvtt-socketlib/blob/master/README.md",
+	"changelog": "https://github.com/farling42/foundryvtt-socketlib/blob/master/CHANGELOG.md",
+	"bugs": "https://github.com/farling42/foundryvtt-socketlib/issues"
 }

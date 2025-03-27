@@ -1,3 +1,7 @@
+## 1.1.2
+### Compatibility
+- Updated for compatibility with Foundry 13 (338).
+
 ## 1.1.1
 - Update module.json for new location and maintainer.
 

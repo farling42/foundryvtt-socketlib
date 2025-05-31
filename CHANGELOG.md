@@ -1,3 +1,6 @@
+## 1.1.3
+- Update compatibility to Foundry 13 (which might also fix an issue with TheForge?)
+
 ## 1.1.2
 ### Compatibility
 - Updated for compatibility with Foundry 13 (338).

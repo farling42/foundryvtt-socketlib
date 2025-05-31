@@ -2,10 +2,10 @@
 	"id": "socketlib",
 	"title": "socketlib",
 	"description": "A library for easier handling of foundry sockets",
-	"version": "1.1.1",
+	"version": "1.1.3",
 	"compatibility": {
 		"minimum": "11",
-		"verified": "13.338"
+		"verified": "13"
 	},
 	"library": true,
 	"authors": [
@@ -28,7 +28,7 @@
 		"src/socketlib.js"
 	],
 	"url": "https://github.com/farling42/foundryvtt-socketlib",
-	"download": "https://github.com/farling42/foundryvtt-socketlib/releases/download/v1.1.1/module.zip",
+	"download": "https://github.com/farling42/foundryvtt-socketlib/releases/download/v1.1.3/module.zip",
 	"manifest": "https://github.com/farling42/foundryvtt-socketlib/releases/latest/download/module.json",
 	"readme": "https://github.com/farling42/foundryvtt-socketlib/blob/master/README.md",
 	"changelog": "https://github.com/farling42/foundryvtt-socketlib/blob/master/CHANGELOG.md",

@@ -15,7 +15,7 @@ This library makes it easy to execute functions in the clients of other connecte
 - **Execute a function for a specified list of players**: socketlib will execute a function in the clients of several players that can be identified by their id.
 
 ## Core functionality
-You should consider if the core support in Foundry V14+ is good enough for your application before using socketlib. Look at the user of `User.query` and `CONFIG.queries` for getting a function invoked in the session of another user.
+You should consider if the core support in Foundry V14+ is good enough for your application before using socketlib. Look at the user of `User.query` or `User.queries` and `CONFIG.queries` for getting a function invoked in the session of another user(s).
 
 ## API
 Below is a small example code that demonstrates the usage of socketlib. All of socketlibs functions are accessible via `socketlib.`. Documentation for each of the available functions can be found blow the example code.
